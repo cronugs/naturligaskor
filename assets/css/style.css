@@ -16,7 +16,16 @@
     font-family: "Open Sans", sans-serif;
     font-size: 35px;
     background-color: #efe9dd;
+}
 
+.latest-blog {
+    height: 75px;
+    background-color: #253112;
+}
+
+.burger-zone {
+    height: 75px;
+    background-color: #1a1d09;
 }
 
 .nav-one {
